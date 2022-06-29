@@ -1,0 +1,48 @@
+
+body, html{
+    height:100%;
+    padding:0;
+    margin:0;
+}
+
+
+
+.intro{
+    background-image: url(../images/blackhole.jpg);
+    height: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+
+}
+.text img{
+    width:100%;
+}
+.text {
+    background-color: lightgreen;
+    text-align: center;
+}
+.intro h1{
+    color:white;
+    text-align: center;
+}
+.list, .suggest, .middle{
+    background-color: lightgreen;
+
+}
+.list{
+    float:left
+
+}
+.suggest{
+    float:right
+    
+}
+
+.suggest{
+    text-align: center
+}
+.middle{
+    float:middle;
+}
